@@ -14,6 +14,11 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.fsm_location_form_view
+msgid "&amp;nbsp;Update Latitude and Longitude details accordingly!"
+msgstr ""
+
+#. module: fieldservice_geoengine
 #: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
 msgid "City:"
 msgstr ""
