@@ -22,6 +22,7 @@ msgid "&amp;nbsp;Update Latitude and Longitude details accordingly!"
 msgstr ""
 
 #. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
 #: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
 msgid "City:"
 msgstr ""
@@ -33,6 +34,7 @@ msgid "Coordinate"
 msgstr ""
 
 #. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
 #: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
 msgid "Country:"
 msgstr ""
@@ -78,11 +80,13 @@ msgid "Map"
 msgstr "Mapa"
 
 #. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
 #: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
 msgid "Mobile:"
 msgstr ""
 
 #. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
 #: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
 msgid "Name:"
 msgstr ""
@@ -94,6 +98,7 @@ msgid "Open Street Map"
 msgstr ""
 
 #. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
 #: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
 msgid "Phone:"
 msgstr ""
@@ -109,16 +114,19 @@ msgid "Stage Name"
 msgstr ""
 
 #. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
 #: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
 msgid "State:"
 msgstr ""
 
 #. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
 #: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
 msgid "Street 2:"
 msgstr ""
 
 #. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
 #: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
 msgid "Street:"
 msgstr ""
@@ -141,12 +149,10 @@ msgid "You need to select a numeric field"
 msgstr ""
 
 #. module: fieldservice_geoengine
+#: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_location_map
 #: model_terms:ir.ui.view,arch_db:fieldservice_geoengine.ir_ui_view_fsm_order_map
 msgid "ZIP:"
 msgstr ""
 
-#. module: fieldservice_geoengine
-#: model:geoengine.raster.layer,name:fieldservice_geoengine.geoengine_raster_layer_basic0
-#: model:geoengine.raster.layer,name:fieldservice_geoengine.loc_geoengine_raster_layer_basic0
-msgid "basic"
-msgstr "básico"
+#~ msgid "basic"
+#~ msgstr "básico"
