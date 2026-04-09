@@ -12,6 +12,7 @@ setuptools.setup(
         'odoo-addon-fieldservice>=16.0dev,<16.1dev',
         'odoo-addon-fieldservice_account>=16.0dev,<16.1dev',
         'odoo-addon-fieldservice_account_analytic>=16.0dev,<16.1dev',
+        'odoo-addon-fieldservice_account_payment>=16.0dev,<16.1dev',
         'odoo-addon-fieldservice_activity>=16.0dev,<16.1dev',
         'odoo-addon-fieldservice_calendar>=16.0dev,<16.1dev',
         'odoo-addon-fieldservice_crm>=16.0dev,<16.1dev',
