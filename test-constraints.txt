@@ -1,0 +1,5 @@
+odoo-addon-base_territory @ file:///mnt/base_territory
+odoo-addon-fieldservice @ file:///mnt/fieldservice
+odoo-addon-fieldservice_portal @ file:///mnt/fieldservice_portal
+odoo-addon-fieldservice_route @ file:///mnt/fieldservice_route
+odoo-addon-fieldservice_stock @ file:///mnt/fieldservice_stock
