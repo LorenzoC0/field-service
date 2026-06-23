@@ -1,9 +1,10 @@
 [project]
 name = "odoo-addons-oca-field-service"
-version = "19.0.20260619.1"
+version = "19.0.20260623.0"
 dependencies = [
     "odoo-addon-base_territory==19.0.*",
     "odoo-addon-fieldservice==19.0.*",
+    "odoo-addon-fieldservice_equipment_stock==19.0.*",
     "odoo-addon-fieldservice_portal==19.0.*",
     "odoo-addon-fieldservice_stock==19.0.*",
 ]
