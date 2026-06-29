@@ -15,6 +15,7 @@ dependencies = [
     "odoo-addon-fieldservice_purchase==19.0.*",
     "odoo-addon-fieldservice_recurring==19.0.*",
     "odoo-addon-fieldservice_stock==19.0.*",
+    "odoo-addon-fieldservice_timesheet==19.0.*",
     "odoo-addon-fieldservice_vehicle==19.0.*",
 ]
 classifiers=[
