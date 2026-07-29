@@ -1,6 +1,6 @@
 [project]
 name = "odoo-addons-oca-field-service"
-version = "19.0.20260729.2"
+version = "19.0.20260729.3"
 dependencies = [
     "odoo-addon-base_territory==19.0.*",
     "odoo-addon-fieldservice==19.0.*",
@@ -17,6 +17,7 @@ dependencies = [
     "odoo-addon-fieldservice_project==19.0.*",
     "odoo-addon-fieldservice_purchase==19.0.*",
     "odoo-addon-fieldservice_recurring==19.0.*",
+    "odoo-addon-fieldservice_route==19.0.*",
     "odoo-addon-fieldservice_sale==19.0.*",
     "odoo-addon-fieldservice_sale_agreement==19.0.*",
     "odoo-addon-fieldservice_sale_recurring==19.0.*",
