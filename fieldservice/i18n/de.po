@@ -23,6 +23,11 @@ msgid "# Meetings"
 msgstr "# Besprechungen"
 
 #. module: fieldservice
+#: model:ir.model.fields,field_description:fieldservice.field_fsm_location__opportunity_count
+msgid "# Opportunities"
+msgstr "# Verkaufschancen"
+
+#. module: fieldservice
 #: model:ir.model.fields,field_description:fieldservice.field_fsm_location__supplier_invoice_count
 #: model:ir.model.fields,field_description:fieldservice.field_fsm_person__supplier_invoice_count
 msgid "# Vendor Bills"
@@ -2452,6 +2457,18 @@ msgid "Operations"
 msgstr ""
 
 #. module: fieldservice
+#: model:ir.model.fields,field_description:fieldservice.field_fsm_location__opportunity_ids
+#: model:ir.model.fields,field_description:fieldservice.field_fsm_person__opportunity_ids
+#, fuzzy
+msgid "Opportunities"
+msgstr "# Verkaufschancen"
+
+#. module: fieldservice
+#: model:ir.model.fields,field_description:fieldservice.field_fsm_person__opportunity_count
+msgid "Opportunity Count"
+msgstr ""
+
+#. module: fieldservice
 #: model:ir.model.fields,field_description:fieldservice.field_fsm_order__display_name
 #: model:ir.model.fields,field_description:fieldservice.field_fsm_order_sign_wizard__order_id
 #: model:ir.model.fields.selection,name:fieldservice.selection__fsm_stage__stage_type__order
@@ -3140,6 +3157,18 @@ msgid "Signed On"
 msgstr ""
 
 #. module: fieldservice
+#: model:ir.model.fields,field_description:fieldservice.field_fsm_location__signer_ids
+#: model:ir.model.fields,field_description:fieldservice.field_fsm_person__signer_ids
+msgid "Signer"
+msgstr ""
+
+#. module: fieldservice
+#: model:ir.model.fields,field_description:fieldservice.field_fsm_location__signer_count
+#: model:ir.model.fields,field_description:fieldservice.field_fsm_person__signer_count
+msgid "Signer Count"
+msgstr ""
+
+#. module: fieldservice
 #: model:ir.model.fields,field_description:fieldservice.field_fsm_location__signup_type
 #: model:ir.model.fields,field_description:fieldservice.field_fsm_person__signup_type
 msgid "Signup Token Type"
@@ -3761,13 +3790,6 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:fieldservice.fsm_person_form
 msgid "x"
 msgstr ""
-
-#~ msgid "# Opportunities"
-#~ msgstr "# Verkaufschancen"
-
-#, fuzzy
-#~ msgid "Opportunities"
-#~ msgstr "# Verkaufschancen"
 
 #~ msgid "Additional info"
 #~ msgstr "Weitere Informationen"
