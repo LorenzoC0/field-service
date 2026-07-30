@@ -77,21 +77,25 @@ Credits
 Authors
 -------
 
-* Open Source Integrators
+* Gray Matter Logic
 
 Contributors
 ------------
 
-- Maxime Chambreuil <mchambreuil@opensourceintegrators.com>
-- Steve Campbell <scampbell@opensourceintegrators.com>
-- Mohammad Khalid <mkhalid@opensourceintegrators.com>
+- `Gray Matter Logic <https://www.graymatterlogic.com>`__:
+
+  - Maxime Chambreuil <maxime.chambreuil@graymatterlogic.com>
+
+- Maxime Chambreuil <maxime.chambreuil@graymatterlogic.com>
+- Steve Campbell <scampbell@graymatterlogic.com>
+- Mohammad Khalid <mkhalid@graymatterlogic.com>
 
 Other credits
 -------------
 
 The development of this module has been financially supported by:
 
-- Open Source Integrators <https://opensourceintegrators.com>
+- Gray Matter Logic <https://www.graymatterlogic.com>
 
 Maintainers
 -----------
@@ -106,16 +110,13 @@ OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
 
-.. |maintainer-osi-scampbell| image:: https://github.com/osi-scampbell.png?size=40px
-    :target: https://github.com/osi-scampbell
-    :alt: osi-scampbell
 .. |maintainer-max3903| image:: https://github.com/max3903.png?size=40px
     :target: https://github.com/max3903
     :alt: max3903
 
-Current `maintainers <https://odoo-community.org/page/maintainer-role>`__:
+Current `maintainer <https://odoo-community.org/page/maintainer-role>`__:
 
-|maintainer-osi-scampbell| |maintainer-max3903| 
+|maintainer-max3903| 
 
 This module is part of the `OCA/field-service <https://github.com/OCA/field-service/tree/19.0/fieldservice_purchase>`_ project on GitHub.
 

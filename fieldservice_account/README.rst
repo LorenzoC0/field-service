@@ -70,12 +70,16 @@ Credits
 Authors
 -------
 
-* Open Source Integrators
+* Gray Matter Logic
 
 Contributors
 ------------
 
-- Michael Allen <mallen@opensourceintegrators.com>
+- `Gray Matter Logic <https://www.graymatterlogic.com>`__:
+
+  - Maxime Chambreuil <maxime.chambreuil@graymatterlogic.com>
+
+- Michael Allen <mallen@graymatterlogic.com>
 - Serpent Consulting Services Pvt. Ltd. <support@serpentcs.com>
 - Raphaël Reverdy <raphael.reverdy@akretion.com>
 - Brian McMaster <brian@mcmpest.com>
@@ -102,13 +106,10 @@ promote its widespread use.
 .. |maintainer-brian10048| image:: https://github.com/brian10048.png?size=40px
     :target: https://github.com/brian10048
     :alt: brian10048
-.. |maintainer-bodedra| image:: https://github.com/bodedra.png?size=40px
-    :target: https://github.com/bodedra
-    :alt: bodedra
 
 Current `maintainers <https://odoo-community.org/page/maintainer-role>`__:
 
-|maintainer-osimallen| |maintainer-brian10048| |maintainer-bodedra| 
+|maintainer-osimallen| |maintainer-brian10048| 
 
 This module is part of the `OCA/field-service <https://github.com/OCA/field-service/tree/19.0/fieldservice_account>`_ project on GitHub.
 

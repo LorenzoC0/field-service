@@ -83,15 +83,19 @@ Credits
 Authors
 -------
 
-* Open Source Integrators
+* Gray Matter Logic
 
 Contributors
 ------------
 
-- Bhavesh Odedra <bodedra@opensourceintegrators.com>
-- Sandip Mangukiya <smangukiya@opensourceintegrators.com>
+- `Gray Matter Logic <https://www.graymatterlogic.com>`__:
+
+  - Maxime Chambreuil <maxime.chambreuil@graymatterlogic.com>
+
+- Bhavesh Odedra <bodedra@graymatterlogic.com>
+- Sandip Mangukiya <smangukiya@graymatterlogic.com>
 - Serpent Consulting Services Pvt. Ltd. <support@serpentcs.com>
-- Patrick Wilson <pwilson@opensourceintegrators.com>
+- Patrick Wilson <pwilson@graymatterlogic.com>
 - Italo Lopes <italo.lopes@camptocamp.com>
 - Iván Todorovich <ivan.todorovich@camptocamp.com>
 - `Komit <https://komit-consulting.com>`__:
@@ -103,7 +107,7 @@ Other credits
 
 The development of this module has been financially supported by:
 
-- Open Source Integrators
+- Gray Matter Logic
 
 Maintainers
 -----------
@@ -121,22 +125,13 @@ promote its widespread use.
 .. |maintainer-max3903| image:: https://github.com/max3903.png?size=40px
     :target: https://github.com/max3903
     :alt: max3903
-.. |maintainer-bodedra| image:: https://github.com/bodedra.png?size=40px
-    :target: https://github.com/bodedra
-    :alt: bodedra
-.. |maintainer-smangukiya| image:: https://github.com/smangukiya.png?size=40px
-    :target: https://github.com/smangukiya
-    :alt: smangukiya
-.. |maintainer-osi-scampbell| image:: https://github.com/osi-scampbell.png?size=40px
-    :target: https://github.com/osi-scampbell
-    :alt: osi-scampbell
 .. |maintainer-patrickrwilson| image:: https://github.com/patrickrwilson.png?size=40px
     :target: https://github.com/patrickrwilson
     :alt: patrickrwilson
 
 Current `maintainers <https://odoo-community.org/page/maintainer-role>`__:
 
-|maintainer-max3903| |maintainer-bodedra| |maintainer-smangukiya| |maintainer-osi-scampbell| |maintainer-patrickrwilson| 
+|maintainer-max3903| |maintainer-patrickrwilson| 
 
 This module is part of the `OCA/field-service <https://github.com/OCA/field-service/tree/19.0/fieldservice_agreement>`_ project on GitHub.
 
