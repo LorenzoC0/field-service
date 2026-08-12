@@ -1,6 +1,6 @@
 [project]
 name = "odoo-addons-oca-field-service"
-version = "19.0.20260811.0"
+version = "19.0.20260812.0"
 dependencies = [
     "odoo-addon-base_territory==19.0.*",
     "odoo-addon-fieldservice==19.0.*",
@@ -30,6 +30,7 @@ dependencies = [
     "odoo-addon-fieldservice_size==19.0.*",
     "odoo-addon-fieldservice_skill==19.0.*",
     "odoo-addon-fieldservice_stage_server_action==19.0.*",
+    "odoo-addon-fieldservice_stage_validation==19.0.*",
     "odoo-addon-fieldservice_stock==19.0.*",
     "odoo-addon-fieldservice_timeline==19.0.*",
     "odoo-addon-fieldservice_timesheet==19.0.*",
